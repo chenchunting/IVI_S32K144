@@ -1,0 +1,153 @@
+<CodeGenerationInfo>
+  <ToolchainSettings>
+    <option>
+      <name>PE_G_4PEx_ToolChain_C_Compiler_Includes</name>
+      <values lines_count="14">
+        <Line>"${S32_SDK_PATH}/platform/drivers/src/clock/S32K1xx"</Line>
+        <Line>"${S32_SDK_PATH}/rtos/osif/"</Line>
+        <Line>"${S32_SDK_PATH}/platform/pal/can/inc"</Line>
+        <Line>"${S32_SDK_PATH}/platform/pal/uart/inc"</Line>
+        <Line>"${S32_SDK_PATH}/platform/pal/uart/inc"</Line>
+        <Line>"${S32_SDK_PATH}/platform/pal/can/inc"</Line>
+        <Line>"${S32_SDK_PATH}/platform/pal/wdg/inc"</Line>
+        <Line>"${S32_SDK_PATH}/platform/drivers/src/ftm"</Line>
+        <Line>"${S32_SDK_PATH}/platform/pal/i2c/inc"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices/common"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices/S32K144/include"</Line>
+        <Line>"${S32_SDK_PATH}/platform/devices/S32K144/startup"</Line>
+        <Line>"${S32_SDK_PATH}/platform/drivers/inc"</Line>
+      </values>
+    </option>
+    <option>
+      <name>PE_G_4PEx_ilg_gnuarmeclipse_managedbuild_cross_option_c_compiler_defs</name>
+      <values lines_count="1">
+        <Line>"CPU_S32K144_100"</Line>
+      </values>
+    </option>
+  </ToolchainSettings>
+  <GeneratedFilesList>
+    <GeneratedByPE>
+      <File Name="Generated_Code/lpuart1_uart.c" FileDate="2023-04-18, 13:43:41" FileAge="1681796621355" FileType="45637" CompNumb="100" />
+      <File Name="Generated_Code/wdg_pal1.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621318" FileType="45637" CompNumb="103" />
+      <File Name="SDK/platform/devices/S32K144/include/S32K144.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/i2c1.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621287" FileType="45637" CompNumb="105" />
+      <File Name="SDK/platform/drivers/src/ewm/ewm_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/wdg_pal1.c" FileDate="2023-04-18, 13:43:41" FileAge="1681796621310" FileType="45637" CompNumb="103" />
+      <File Name="SDK/platform/devices/startup.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/i2c1.c" FileDate="2023-04-18, 13:43:41" FileAge="1681796621279" FileType="45637" CompNumb="105" />
+      <File Name="SDK/platform/pal/uart/src/uart_pal.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/devices/startup.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/clock_manager.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/wdog/wdog_driver.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/sim_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/pal/uart/inc/uart_pal.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/lpuart/lpuart_driver.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/lpi2c/lpi2c_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Documentation/s32k144_test.txt" FileDate="2023-04-18, 13:43:41" FileAge="1681796621464" FileType="3072" />
+      <File Name="SDK/platform/drivers/src/interrupt/interrupt_manager.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/devices/callbacks.h" FileDate="2018-03-26, 18:12:00" FileAge="1522059120000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/ewm/ewm_driver.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/edma/edma_irq.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/ftm_common.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/lpi2c/lpi2c_hw_access.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/edma/edma_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_irq.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/edma/edma_irq.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/edma/edma_hw_access.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_irq.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/smc_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/edma/edma_driver.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/lpspi/lpspi_master_driver.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_hw_access.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/lpi2c/lpi2c_irq.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/dmaController1.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621400" FileType="45637" CompNumb="93" />
+      <File Name="SDK/platform/drivers/inc/ewm_driver.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/clockMan1.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621415" FileType="45637" CompNumb="98" />
+      <File Name="SDK/platform/drivers/src/pins/pins_gpio_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/can_pal1.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621335" FileType="45637" CompNumb="102" />
+      <File Name="Generated_Code/dmaController1.c" FileDate="2023-04-18, 13:43:41" FileAge="1681796621393" FileType="45637" CompNumb="93" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/clockMan1.c" FileDate="2023-04-18, 13:43:41" FileAge="1681796621407" FileType="45637" CompNumb="98" />
+      <File Name="Generated_Code/can_pal1.c" FileDate="2023-04-18, 13:43:41" FileAge="1681796621325" FileType="45637" CompNumb="102" />
+      <File Name="SDK/platform/drivers/src/ftm/ftm_common.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/can_pal0.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621373" FileType="45637" CompNumb="99" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/clock_S32K1xx.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/ftm/ftm_pwm_driver.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/wdog_driver.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/lpspi_slave_driver.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/can_pal0.c" FileDate="2023-04-18, 13:43:41" FileAge="1681796621367" FileType="45637" CompNumb="99" />
+      <File Name="Sources/main.c" FileDate="2023-04-18, 14:01:47" FileAge="1681797707009" FileType="128" />
+      <File Name="SDK/platform/drivers/src/wdog/wdog_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/devices/common/s32_core_cm4.h" FileDate="2018-03-26, 18:12:00" FileAge="1522059120000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/ftm/ftm_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/wdog/wdog_hw_access.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/uart_pal_cfg.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621218" FileType="45637" CompNumb="50" />
+      <File Name="SDK/platform/drivers/src/ftm/ftm_hw_access.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/clock_manager.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/lpspi/lpspi_irq.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/pal/i2c/inc/i2c_pal_mapping.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/lpspi_master_driver.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/pal/can/inc/can_pal_mapping.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/pal/wdg/inc/wdg_pal.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/pal/wdg/inc/wdg_pal_mapping.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/pcc_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/ftm_pwm_driver.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/lpi2c/lpi2c_driver.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/Send1.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621272" FileType="45637" CompNumb="106" />
+      <File Name="SDK/platform/drivers/inc/lpi2c_driver.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/Cpu.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621241" FileType="45637" CompNumb="50" />
+      <File Name="Generated_Code/lpuart0_uart.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621348" FileType="45637" CompNumb="101" />
+      <File Name="SDK/platform/pal/wdg/src/wdg_pal.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/Send1.c" FileDate="2023-04-18, 13:43:41" FileAge="1681796621266" FileType="45637" CompNumb="106" />
+      <File Name="Generated_Code/Cpu.c" FileDate="2023-04-18, 13:43:41" FileAge="1681796621235" FileType="45637" CompNumb="50" />
+      <File Name="Generated_Code/lpuart0_uart.c" FileDate="2023-04-18, 13:43:41" FileAge="1681796621342" FileType="45637" CompNumb="101" />
+      <File Name="SDK/platform/drivers/src/lpuart/lpuart_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/devices/device_registers.h" FileDate="2018-03-26, 18:12:00" FileAge="1522059120000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/pins_driver.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/lpuart/lpuart_hw_access.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Documentation/s32k144_test_Settings.xml" FileDate="2023-04-18, 13:43:41" FileAge="1681796621438" FileType="3072" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/scg_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/i2c_pal_cfg.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621229" FileType="45637" CompNumb="50" />
+      <File Name="SDK/platform/pal/can/inc/can_pal.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/Send.h" FileDate="2023-04-18, 14:03:12" FileAge="1681797792566" FileType="45637" CompNumb="97" />
+      <File Name="Generated_Code/flexTimer_pwm1.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621303" FileType="45637" CompNumb="104" />
+      <File Name="SDK/platform/drivers/src/clock/S32K1xx/pmc_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/pin_mux.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621257" FileType="45637" CompNumb="107" />
+      <File Name="SDK/platform/drivers/inc/lpuart_driver.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/pal/i2c/inc/i2c_pal.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/Send.c" FileDate="2023-04-18, 14:03:12" FileAge="1681797792576" FileType="45637" CompNumb="97" />
+      <File Name="Generated_Code/flexTimer_pwm1.c" FileDate="2023-04-18, 13:48:22" FileAge="1681796902860" FileType="45637" CompNumb="104" />
+      <File Name="Generated_Code/pin_mux.c" FileDate="2023-04-18, 13:43:41" FileAge="1681796621249" FileType="45637" CompNumb="107" />
+      <File Name="SDK/platform/drivers/src/lpspi/lpspi_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/lpspi_shared_function.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/devices/devassert.h" FileDate="2023-03-01, 15:37:58" FileAge="1677656278429" FileType="262144" />
+      <File Name="SDK/rtos/osif/osif.h" FileDate="2018-03-26, 18:12:04" FileAge="1522059124000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/lpspi/lpspi_shared_function.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/lpspi/lpspi_hw_access.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/pal/can/src/can_pal.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/can_pal_cfg.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621210" FileType="45637" CompNumb="50" />
+      <File Name="SDK/platform/drivers/src/lpspi/lpspi_slave_driver.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/pins_driver.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/flexcan/flexcan_driver.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/devices/S32K144/startup/system_S32K144.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/pal/i2c/src/i2c_pal.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/pins_port_hw_access.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/devices/S32K144/startup/system_S32K144.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/rtos/osif/osif_baremetal.c" FileDate="2018-03-26, 18:12:04" FileAge="1522059124000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/pins/pins_port_hw_access.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/devices/status.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/pal/uart/inc/uart_pal_mapping.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/edma_driver.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/lpuart/lpuart_irq.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/interrupt_manager.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/src/lpuart/lpuart_irq.c" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/wdg_pal_cfg.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621224" FileType="45637" CompNumb="50" />
+      <File Name="SDK/platform/devices/S32K144/include/S32K144_features.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="SDK/platform/drivers/inc/flexcan_driver.h" FileDate="2018-03-26, 18:12:02" FileAge="1522059122000" FileType="262144" />
+      <File Name="Generated_Code/lpuart1_uart.h" FileDate="2023-04-18, 13:43:41" FileAge="1681796621361" FileType="45637" CompNumb="100" />
+    </GeneratedByPE>
+  </GeneratedFilesList>
+  <CodeGenReference>5</CodeGenReference>
+</CodeGenerationInfo>
